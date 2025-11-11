@@ -34,4 +34,4 @@
 
 6. Make sure Google action option is enabled.
 
-7. If it still does not work then go to church and pray to God -:)
+7. If it still does not work then pray to God -:)
